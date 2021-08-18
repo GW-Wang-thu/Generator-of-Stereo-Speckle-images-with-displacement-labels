@@ -12,17 +12,17 @@ A stereo speckle images generator based on Newton iteration for any nonlinear di
 
 * A gif of the four speckle images:
 
-![](.\Sample\Speckle_Images.gif)
+![Speckle Images](http://github.com/GW-Wang-thu/Generator-of-Stereo-Speckle-images-with-displacement-labels/raw/master/Sample/Speckle_Images.gif)
 
 * The Optical Flow and Disparity labels, compared with the results calculated by 2D-DIC:
 
-![](.\Sample\FlowDisp.png)
+![Optical Flow and Disparity](http://github.com/GW-Wang-thu/Generator-of-Stereo-Speckle-images-with-displacement-labels/raw/master/Sample/FlowDisp.png)
 
 * The Displacement U, V and W labels, compared with the results calculated by 3D-DIC:
 
-![](D:\Sample\UVW.png)
+![Displacement U, V and W](http://github.com/GW-Wang-thu/Generator-of-Stereo-Speckle-images-with-displacement-labels/raw/master/Sample/UVW.png)
 
-#### Note: You can use the initial images in ```/Samples``` to calculate the above results. 
+** Note: You can use the initial images in ```/Samples``` to calculate the above results. **
 
 ## Cite this work
 
