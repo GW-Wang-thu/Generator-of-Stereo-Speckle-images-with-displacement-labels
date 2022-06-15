@@ -24,7 +24,7 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 - Dataset sample please download [Here](https://drive.google.com/drive/folders/1vhRsQilTJcGXLwSiknJA7hgsFPOIXPo_?usp=sharing)
 
 - The speckle sample:
-![The speckle images](https://github.com/GW-Wang-thu/Generator-of-Stereo-Speckle-images-with-displacement-labels/tree/main/imgs/speckle_images.png)
+![The speckle images](/imgs/speckle_images.png)
 
 - The 3D displacement labels and the results calculated using 3D-DIC:
 ![The 3D displacement labels and the results calculated using 3D-DIC](https://github.com/GW-Wang-thu/Generator-of-Stereo-Speckle-images-with-displacement-labels/tree/main/imgs/UVW.png)
