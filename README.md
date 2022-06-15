@@ -26,10 +26,10 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 - The speckle sample:
 ![The speckle images](/imgs/speckle_images.png)
 
-- The 3D displacement labels and the results calculated using 3D-DIC:
+- The 3D displacement labels and the results calculated using 3D-DIC (\mu m)
 ![The 3D displacement labels and the results calculated using 3D-DIC](/imgs/UVW.png)
 
-- The optical flow and disparity labels and that calculated using 2D-DIC:
+- The optical flow and disparity labels and that calculated using 2D-DIC (Pixels):
 ![The optical flow and disparity labels and that calculated using 2D-DIC](/imgs/flow_disparity.png)
 
 
