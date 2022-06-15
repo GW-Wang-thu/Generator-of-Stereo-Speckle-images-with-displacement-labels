@@ -1,7 +1,7 @@
 # Generator-of-stereo-speckle-images-with-displacement-labels
 A stereo speckle images generator with nonlinear full-field displacement based on Newton iteration. Used for the research of 3D-DIC or other scene flow estimation tasks.
 
-## Introductions
+## Introduction
 - A stereo speckle images generator based on stereo vision theory
 - With nonlinear 3D displacement labels, time-wise optical flow labels and right-to-left disparity labels.
 - Digit twin of an arbitrary undistorted stereo imaging system(with calibration files)
