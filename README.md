@@ -21,7 +21,7 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 * Run ```main.py```
 
 ## Sample
-- Dataset sample please download [Here](https://drive.google.com/drive/folders/1vhRsQilTJcGXLwSiknJA7hgsFPOIXPo_?usp=sharing)
+- Dataset sample can be download from [Google Drive](https://drive.google.com/drive/folders/1vhRsQilTJcGXLwSiknJA7hgsFPOIXPo_?usp=sharing)
 
 - The speckle sample:
 ![The speckle images](/imgs/speckle_images.png)
