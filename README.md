@@ -6,7 +6,7 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 - With nonlinear 3D displacement labels, time-wise optical flow labels and right-to-left disparity labels.
 - Digit twin of an arbitrary undistorted stereo imaging system(with calibration files)
 - Also can be used to generate speckle image paires with pixel displacement, i.e., the left reference and the left current images with the optical flow label.
-- For algorithm details and the principles, please see ***(unpublished work, update later)
+- For algorithm details and the principles, please refer to ***(unpublished work, update later)
 
 ## Requests
 - python38
@@ -16,9 +16,9 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 - (optional) numba
 
 ## Workflow
-* (Optional) Give stereo calibration parameters and other settings in ```./Seeds/input.py```
+* (Optional) Give your stereo calibration parameters and other settings in ```./Seeds/input.py```
 * (Optional) Generate your own seeds by running ```input.py```
-* Run ```main.py```
+* Run ```main_box.py```
 
 ## Sample
 - Dataset sample can be download from [Google Drive](https://drive.google.com/drive/folders/1vhRsQilTJcGXLwSiknJA7hgsFPOIXPo_?usp=sharing)
