@@ -12,7 +12,7 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 - python38
 - opencv-python (4.4.0 used)
 - numpy (1.22.1 used)
-- torch with cuda (torch1.9.0+cu111)
+- pytorch and torchvision with cuda (torch1.9.0+torchvision0.10.0+cu111)
 - (optional) numba
 
 ## Workflow
@@ -23,7 +23,7 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 ## Sample
 - Dataset sample can be download from [Google Drive](https://drive.google.com/drive/folders/1vhRsQilTJcGXLwSiknJA7hgsFPOIXPo_?usp=sharing)
 
-- The speckle sample:
+- The speckle images sample:
 ![The speckle images](/imgs/speckle_images.png)
 
 - The 3D displacement labels and the results calculated using 3D-DIC (mm)
