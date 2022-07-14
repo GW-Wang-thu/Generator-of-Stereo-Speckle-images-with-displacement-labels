@@ -34,6 +34,7 @@ A stereo speckle images generator with nonlinear full-field displacement based o
 
 
 ## Cite this work
+```
 @article{WANG2022107184,
 title = {StrainNet-3D: Real-time and robust 3-dimensional speckle image correlation using deep learning},
 journal = {Optics and Lasers in Engineering},
@@ -45,3 +46,4 @@ doi = {https://doi.org/10.1016/j.optlaseng.2022.107184},
 url = {https://www.sciencedirect.com/science/article/pii/S0143816622002378},
 author = {Guowen Wang and Laibin Zhang and Xuefeng Yao}
 }
+```
